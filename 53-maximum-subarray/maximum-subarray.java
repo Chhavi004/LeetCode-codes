@@ -5,10 +5,11 @@ class Solution {
         for(int num : nums){
             curr += num;
             sum = Math.max(sum,curr);
-            if(curr <= 0){
+            if(curr < 0){
                 curr = 0;
             }
         }
-        return sum;
+        return sum;      
+
     }
 }
