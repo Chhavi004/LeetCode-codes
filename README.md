@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chhavi004/LeetCode-codes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Chhavi004/LeetCode-codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Chhavi004/LeetCode-codes/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Chhavi004/LeetCode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chhavi004/LeetCode-codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Chhavi004/LeetCode-codes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Chhavi004/LeetCode-codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chhavi004/LeetCode-codes/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Chhavi004/LeetCode-codes/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Chhavi004/LeetCode-codes/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
