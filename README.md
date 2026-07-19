@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Chhavi004/LeetCode-codes/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Chhavi004/LeetCode-codes/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Chhavi004/LeetCode-codes/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Chhavi004/LeetCode-codes/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chhavi004/LeetCode-codes/tree/master/2965-find-missing-and-repeated-values) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Chhavi004/LeetCode-codes/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Chhavi004/LeetCode-codes/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Chhavi004/LeetCode-codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chhavi004/LeetCode-codes/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Chhavi004/LeetCode-codes/tree/master/0054-spiral-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
