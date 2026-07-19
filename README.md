@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chhavi004/LeetCode-codes/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Chhavi004/LeetCode-codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chhavi004/LeetCode-codes/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/Chhavi004/LeetCode-codes/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Chhavi004/LeetCode-codes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Chhavi004/LeetCode-codes/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chhavi004/LeetCode-codes/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Chhavi004/LeetCode-codes/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Chhavi004/LeetCode-codes/tree/master/0155-min-stack) |
 ## Math
 |  |
