@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chhavi004/LeetCode-codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Chhavi004/LeetCode-codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Chhavi004/LeetCode-codes/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Chhavi004/LeetCode-codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chhavi004/LeetCode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Chhavi004/LeetCode-codes/tree/master/0198-house-robber) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chhavi004/LeetCode-codes/tree/master/0070-climbing-stairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chhavi004/LeetCode-codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Chhavi004/LeetCode-codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
