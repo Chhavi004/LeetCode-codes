@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chhavi004/LeetCode-codes/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Chhavi004/LeetCode-codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Chhavi004/LeetCode-codes/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Chhavi004/LeetCode-codes/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Chhavi004/LeetCode-codes/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chhavi004/LeetCode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Chhavi004/LeetCode-codes/tree/master/0136-single-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chhavi004/LeetCode-codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Chhavi004/LeetCode-codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Chhavi004/LeetCode-codes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Chhavi004/LeetCode-codes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Chhavi004/LeetCode-codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chhavi004/LeetCode-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Chhavi004/LeetCode-codes/tree/master/0198-house-robber) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chhavi004/LeetCode-codes/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Chhavi004/LeetCode-codes/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
