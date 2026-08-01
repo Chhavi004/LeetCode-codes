@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Chhavi004/LeetCode-codes/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/1796-second-largest-digit-in-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Chhavi004/LeetCode-codes/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/Chhavi004/LeetCode-codes/tree/master/0917-reverse-only-letters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Chhavi004/LeetCode-codes/tree/master/1796-second-largest-digit-in-a-string) |
 ## Stack
 |  |
 | ------- |
